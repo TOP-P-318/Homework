@@ -284,7 +284,7 @@ public interface IStudentRepo<T> where T : StudentModel
 Поэтому новая кнопка внутри исходной формы должна перехватывать управление на себя
 
 ```HTML
-<button type="submit" asp-controller="Cabinet" asp-action="ChangePassword" formaction="@Url.Action("ChangePassword", "Cabinet")">
+<button type="submit" formmethod="get" formaction="@Url.Action("ChangePassword", "Cabinet")">
     Сменить пароль
 </button>
 ```
