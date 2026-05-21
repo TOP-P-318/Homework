@@ -8,7 +8,7 @@
 | П-318  | https://github.com/TOP-P-318/  | https://github.com/TOP-P-318/PersonalAccount  | https://github.com/TOP-P-318/Homework  |
 | П-319  | https://github.com/TOP-P-319/  | https://github.com/TOP-P-319/PersonalAccount  | https://github.com/TOP-P-319/Homework  |
 
-Начиная с этого домашнего задания, ответом на домашку будет ссылка на ваш Pull Request (PR) с решением домашки. Важно, PR должен быть открытым (то есть, еще не влит в главную ветку).
+Начиная с 4 домашнего задания, ответом на домашку будет ссылка на ваш Pull Request (PR) с решением домашки. Важно, PR должен быть открытым (то есть, еще не влит в главную ветку).
 
 # Настройка `Git` и клонирование проекта
 
