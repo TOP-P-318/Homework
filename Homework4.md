@@ -8,7 +8,7 @@
 | ------ | ------------------------------------------------------------ | --------------------------------------------------- |
 | ПД-412 | https://github.com/TOP-PD-412/PersonalAccount/tree/Lesson-10 | проект был перенесен                                |
 | П-318  | https://github.com/TOP-P-318/PersonalAccount/tree/lesson-9   | https://github.com/TOP-P-318/PersonalAccount/pull/4 |
-| П-319  | https://github.com/TOP-P-319/PersonalAccount/fork            |                                                     |
+| П-319  | https://github.com/TOP-P-319/PersonalAccount/tree/lesson9-10 | https://github.com/TOP-P-319/PersonalAccount/pull/2 |
 
 # Ход работы
 
@@ -290,6 +290,7 @@ public interface IStudentRepo<T> where T : StudentModel
 ```
 
 ## Требования
+
 - Внутри формы редактирования есть кнопка смены пароля
 - При нажатии на кнопку открывается новая форма с 3 полями и кнопкой отправки
 - Форма не позволяет ввести одинаковый старый и новый пароль, а также не позволяет, чтобы новый пароль и подтверждение пароля совпадали
