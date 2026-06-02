@@ -13,7 +13,7 @@
 |--------|----------------------------------------------------------------|------------------------------------------------------|
 | ПД-412 | https://github.com/TOP-PD-412/PersonalAccount/tree/lesson13-14 | https://github.com/TOP-PD-412/PersonalAccount/pull/3 |
 | П-318  | https://github.com/TOP-P-318/PersonalAccount/tree/lesson13-14  | https://github.com/TOP-P-318/PersonalAccount/pull/6  |
-| П-319  | -                                                              | -                                                    |
+| П-319  | https://github.com/TOP-P-319/PersonalAccount/tree/lesson13-14  | https://github.com/TOP-P-319/PersonalAccount/pull/3  |
 
 # Ход работы
 
