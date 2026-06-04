@@ -26,7 +26,7 @@
 |--------|----------------------------------------------------------------|-------------------------------------------------------|
 | ПД-412 | https://github.com/TOP-PD-412/PersonalAccount/tree/lesson20-21 | https://github.com/TOP-PD-412/PersonalAccount/pull/10 |
 | П-318  | https://github.com/TOP-P-318/PersonalAccount/tree/lesson19-20  | https://github.com/TOP-P-318/PersonalAccount/pull/9   |
-| П-319  | < ссылка на ветку с проектом >                                 | < ссылка на ваш PR >                                  |
+| П-319  | https://github.com/TOP-P-319/PersonalAccount/tree/lesson20-21  | https://github.com/TOP-P-319/PersonalAccount/pull/6   |
 
 # Ход работы
 
